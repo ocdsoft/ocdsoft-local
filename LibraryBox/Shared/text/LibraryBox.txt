@@ -1,0 +1,32 @@
+Format USB to Fat32
+Name Label
+HopeBox200,201,202,203,204,205,206,207,208
+
+Copy install and openwrt...factory.bin to root of usb, prior to firmware upgrade.
+
+Device should be set to wisp, opposite power button
+
+Original IP 192.168.0.168
+
+System Tools > Firmware Upgrade
+
+Choose openwrt...factory.bin to upgrade
+
+
+192.168.1.1
+Putty
+
+box_init_setup.sh
+
+Choose Option : 2
+
+Option: 1
+
+Romans10v13
+
+SSH
+
+
+Install/auto_package_done
+
+jeff@gregory.info

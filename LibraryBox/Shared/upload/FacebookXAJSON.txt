@@ -1,0 +1,424 @@
+{
+      "id": "826952704064237",
+      "name": "University of St. Thomas Chi Alpha - USTXA",
+      "cover": {
+        "cover_id": "887160534710120",
+        "offset_x": 0,
+        "offset_y": 0,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/s720x720/11836842_887160534710120_5226932435722538012_n.jpg?oh=0ca7c001f108a41f46560b3aabc081b2&oe=573D0224",
+        "id": "887160534710120"
+      },
+      "phone": "(651) 285-5400",
+      "emails": [
+        "info@ustxa.com"
+      ],
+      "website": "http://ustxa.com",
+      "location": {
+        "city": "Saint Paul",
+        "country": "United States",
+        "latitude": 44.9417,
+        "longitude": -93.1357269,
+        "state": "MN",
+        "street": "845 Summit Ave",
+        "zip": "55105"
+      },
+      "mission": "Giving students the opportunity to FIND Jesus and FOLLOW Him for a lifetime.",
+      "link": "https://www.facebook.com/USTXA/"
+    },
+{
+      "id": "213991618647981",
+      "name": "Chi Alpha Campus Ministries (XA)- University of Tulsa (TU)",
+      "cover": {
+        "cover_id": "355425781171230",
+        "offset_x": 0,
+        "offset_y": 0,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/s720x720/156249_355425781171230_788238341_n.jpg?oh=d9c2a5f05ef2aa57f3a279ac2a6c636d&oe=573D6184",
+        "id": "355425781171230"
+      },
+      "phone": "<<not-applicable>>",
+      "emails": [
+        "xaoklahoma@gmail.com"
+      ],
+      "website": "www.XAtulsa.com",
+      "location": {
+        "city": "Tulsa",
+        "country": "United States",
+        "latitude": 36.1473389,
+        "longitude": -95.9477005,
+        "state": "OK",
+        "street": "1112 S Evanston Ave",
+        "zip": "74104"
+      },
+      "link": "https://www.facebook.com/xatulsa/"
+    },
+ {
+      "id": "177981055608759",
+      "name": "Chi Alpha at Central Washington University",
+      "description": "Chi Alpha Christian Fellowship (XA) is an active student club on the campus of Central Washington University.",
+      "website": "xacentral.com",
+      "location": {
+        "city": "Ellensburg",
+        "country": "United States",
+        "latitude": 47.0026398,
+        "longitude": -120.5437012,
+        "state": "WA",
+        "street": "1009 N D St",
+        "zip": "98926"
+      },
+      "mission": "Reconciling students to Christ, transforming the University, the marketplace, and the world.",
+      "link": "https://www.facebook.com/Chi-Alpha-at-Central-Washington-University-177981055608759/"
+    },
+  {
+      "id": "589463607763669",
+      "name": "Chi Alpha at Georgia Southern University",
+      "cover": {
+        "cover_id": "1031483110228381",
+        "offset_x": 0,
+        "offset_y": 51,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/12400462_1031483110228381_4043164410130746398_n.jpg?oh=7c538e71c03c42ea69c0161a1975246b&oe=573CC0C1",
+        "id": "1031483110228381"
+      },
+      "description": "Our movement of campus ministries finds its identity in this passage. We believe that God longs to have each and every person be reconciled to Himself, and that the way that re-connection happens is through the representation of his people. Each of us who takes on the identity of “Christian” becomes Christ’s ambassador – or christou apostoloi in Greek, which we shorten to the first letters “Chi” and “Alpha” or XA.Our name is our constant reminder that each of us has a real part to play in this world. We each can carry Him within us to bring Him closer to the people around us.
+",
+      "website": "http://ChiAlpha.com",
+      "location": {
+        "city": "Statesboro",
+        "country": "United States",
+        "latitude": 32.443517,
+        "longitude": -81.778734,
+        "state": "GA",
+        "street": "210 S Zetterower Ave",
+        "zip": "30458"
+      },
+      "mission": "We reconcile students to Christ, equipping them through spirit-filled communities of prayer, worship, fellowship, discipleship and mission to transform the university, the marketplace and the world.Our mission on University Campuses is to create a safe environment that encourages students to be all that they can throughout their collegiate experience. It is our hope that the life lessons students learn in this environment will be taken as they depart from GSU and shared with the world.",
+      "link": "https://www.facebook.com/ChiAlphaGSU/"
+    },
+    {
+      "id": "193935300680377",
+      "name": "Chi Alpha - Bulacan State University (XA-BULSU)",
+      "cover": {
+        "cover_id": "351501971590375",
+        "offset_x": 0,
+        "offset_y": 100,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-xpf1/t31.0-8/s720x720/170447_351501971590375_1158886623_o.jpg",
+        "id": "351501971590375"
+      },
+      "website": "http://en.wikipedia.org/wiki/Chi_Alpha_Campus_Ministries",
+      "location": {
+        "city": "Malolos",
+        "country": "Philippines",
+        "latitude": 14.856294305808,
+        "longitude": 120.81358786774,
+        "street": "Bulacan State University",
+        "zip": "3000"
+      },
+      "mission": "The mission of Chi Alpha is to reconcile students to Jesus Christ, thereby transforming the university, the marketplace, and the world. To this end, the organization is committed to a five-fold philosophy: being a community of worship, prayer, fellowship, discipleship, and mission. Despite its name, it is not a fraternity or sorority. Chi Alpha is often abbreviated XA.",
+      "link": "https://www.facebook.com/ChiAlphaBulacanStateUniversity/"
+    },
+{
+      "id": "282466661767486",
+      "name": "Vincennes University Chi Alpha",
+      "cover": {
+        "cover_id": "903714899642656",
+        "offset_x": 0,
+        "offset_y": 0,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-xtf1/v/t1.0-0/p480x480/10570355_903714899642656_1464251384624063020_n.png?oh=60cb1b471f7089b46e30410ab509bdf7&oe=573BC05F",
+        "id": "903714899642656"
+      },
+      "phone": "812.890.0585",
+      "emails": [
+        "vuchialpha@yahoo.com"
+      ],
+      "website": "chialpha.com",
+      "location": {
+        "city": "Vincennes",
+        "country": "United States",
+        "state": "IN",
+        "street": "Vincennes University VCM building by Parish's Pizza on 2nd st.",
+        "zip": "47591"
+      },
+      "mission": "To share the saving grace of Jesus Christ with the world.
+
+Discipleship
+Fellowship
+Prayer
+Outreach
+Worship",
+      "link": "https://www.facebook.com/vincennesuniversitychialpha/"
+    },
+ {
+      "id": "134712169964129",
+      "name": "University of Toledo Chi Alpha",
+      "cover": {
+        "cover_id": "296561490445862",
+        "offset_x": 0,
+        "offset_y": 84,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-ash2/t31.0-8/s720x720/171903_296561490445862_1532308080_o.jpg",
+        "id": "296561490445862"
+      },
+      "description": "Chi Alpha Christian Fellowship at the University of Toledo is a body of college students earnestly following Jesus, who come together to worship our amazing God, to learn His Word and be discipled, to encourage one another and pray, and to have fun making friendships that will last a lifetime!",
+      "emails": [
+        "toledoxa@gmail.com"
+      ],
+      "website": "http://toledochialpha.weebly.com",
+      "mission": "Our mission is to reconcile students to Christ, equipping them through spirit-filled communities of prayer, worship, fellowship, discipleship, and mission to transform the university, the marketplace and the world.",
+      "link": "https://www.facebook.com/toledochialpha/"
+    },
+ {
+      "id": "116563099901",
+      "name": "Truman State University Chi Alpha",
+      "cover": {
+        "cover_id": "10152931026269902",
+        "offset_x": 0,
+        "offset_y": 21,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-xfa1/t31.0-8/s720x720/10344089_10152931026269902_5471002115960052793_o.jpg",
+        "id": "10152931026269902"
+      },
+      "description": "Chi Alpha Campus Ministries is a Christian campus ministry on universities throughout the United States and around the world.
+We are a movement of college-age men and women earnestly following Jesus.
+We are not a fraternity or sorority.
+We invite everyone to be a part, regardless of background
+We meet on campus in groups of varying size and style.
+These gatherings are informal, infused with music and interaction, and cover topics from relationships to the nature of truth.
+These meetings are opportunities for students to meet God, each other, and the needs of the community
+
+When We Meet 
+Praise, Worship and the Word Monday night 7-9 pm Baldwin Hall 228
+ Bible Study Friday afternoon 5:30 - 6:30 pm at Baldwin Hall room 262      
+",
+      "phone": "(660) 665-9905",
+      "emails": [
+        "chialpha@truman.edu"
+      ],
+      "website": "http://www.chialpha.truman.edu",
+      "location": {
+        "city": "Kirksville",
+        "country": "United States",
+        "latitude": 40.0974007,
+        "longitude": -92.6694489,
+        "state": "MO",
+        "street": "Truman State University",
+        "zip": "63501"
+      },
+      "mission": "We will connect students with Christ, transforming the university.We will accomplish this by creating a Spirit-empowered community reflecting our philosophy of Christ-centered ministry and growth",
+      "link": "https://www.facebook.com/www.chialpha.truman.edu/"
+    },
+{
+      "id": "1549103745321565",
+      "name": "Chi Alpha Christian Fellowship at Delta State University",
+      "cover": {
+        "cover_id": "1549105218654751",
+        "offset_x": 0,
+        "offset_y": 0,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-prn2/v/t1.0-9/10521199_1549105218654751_6382870576876745651_n.jpg?oh=3e15b9ffd3741396239a4c57601ee8ea&oe=572C41C0",
+        "id": "1549105218654751"
+      },
+      "emails": [
+        "pastordcarey.cfaog@gmail.com"
+      ],
+      "location": {
+        "city": "Cleveland",
+        "zip": "38732"
+      },
+      "link": "https://www.facebook.com/ChiAlphaDeltastate/"
+    },
+{
+      "id": "169583534368",
+      "name": "Chi Alpha Campus Missionary to Troy University",
+      "cover": {
+        "cover_id": "10153905588069369",
+        "offset_x": 0,
+        "offset_y": 33,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-xpf1/t31.0-8/s720x720/12304052_10153905588069369_2324199703979831479_o.jpg",
+        "id": "10153905588069369"
+      },
+      "description": "In the Bible, the Apostle Paul wrote in 2nd Corinthians 5:20, \"We are therefore Christ's ambassadors, as though God were making His appeal through us. We implore you on Christ's behalf, be reconciled to God.\" Inspired by this verse we chose the phrase \"christou apostoloi,\" meaning \"Christ's sent ones,\" to represent who we are. The Greek letters Chi (X) and Alpha (A) are the initials of this phrase, which reminds us that we should live to reflect Jesus",
+      "phone": "(334) 797-0521",
+      "emails": [
+        "troychialpha@yahoo.com"
+      ],
+      "website": "troychialpha.com",
+      "location": {
+        "city": "Troy",
+        "country": "United States",
+        "latitude": 31.8012914,
+        "longitude": -85.9561275,
+        "state": "AL",
+        "street": "75 1/2 North Ct Square",
+        "zip": "36081"
+      },
+      "link": "https://www.facebook.com/Chi-Alpha-Campus-Missionary-to-Troy-University-169583534368/"
+    },
+ {
+      "id": "130845523675370",
+      "name": "Team Sauceda - University of Georgia Chi Alpha",
+      "cover": {
+        "cover_id": "241729352586986",
+        "offset_x": 0,
+        "offset_y": 0,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/s720x720/431411_241729352586986_720762567_n.jpg?oh=af056d30f51dde38f42916e33d18af81&oe=5723BEDA",
+        "id": "241729352586986"
+      },
+      "description": "We're the Saucedas!  We created this page so that those of our friends and family that are currently supporting our call to the university campus of University of Gerogia, can stay connected, learn more about our journey, see our exciting news and current needs, as well as for those of you who may just be interested in Chi Alpha at UGA or possibly knowing more about how you can help us reach UGA as soon as possible.  
+
+If you're looking for the link to AG Giving where you can sign up to be monthly partners, head over to:  https://giving.ag.org/Give/Details/700001-264257?MinistryName=James+Sauceda&Page=1
+
+ More than anything, we are so excited to be be living every day life with these young students and helping them discover what God has in store for them. 
+",
+      "phone": "706-614-2487",
+      "emails": [
+        "chi.alpha.sauceda@gmail.com"
+      ],
+      "website": "https://giving.ag.org/Give/Details/700001-264257?MinistryName=James%20Sauceda&Page=1",
+      "location": {
+        "city": "Athens",
+        "country": "United States",
+        "state": "GA"
+      },
+      "mission": "We reconcile students to Christ, equipping them through spirit-filled communities of prayer, worship, fellowship, discipleship and mission to transform the university, the marketplace and the world.
+
+Chi Alpha values community, creativity, diversity, excellence, integrity, and servant leadership.",
+      "link": "https://www.facebook.com/TeamSaucedaUGA/"
+    },
+{
+      "id": "1473531899570693",
+      "name": "Chi Alpha Christian Fellowship at Indiana University",
+      "cover": {
+        "cover_id": "1473541749569708",
+        "offset_x": 0,
+        "offset_y": 70,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-xfa1/t31.0-0/p180x540/10551653_1473541749569708_1393428850331449385_o.jpg",
+        "id": "1473541749569708"
+      },
+      "website": "http://www.chialphaiu.com",
+      "link": "https://www.facebook.com/chialphaiu/"
+    },
+ {
+      "id": "134712169964129",
+      "name": "University of Toledo Chi Alpha",
+      "cover": {
+        "cover_id": "296561490445862",
+        "offset_x": 0,
+        "offset_y": 84,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-ash2/t31.0-8/s720x720/171903_296561490445862_1532308080_o.jpg",
+        "id": "296561490445862"
+      },
+      "description": "Chi Alpha Christian Fellowship at the University of Toledo is a body of college students earnestly following Jesus, who come together to worship our amazing God, to learn His Word and be discipled, to encourage one another and pray, and to have fun making friendships that will last a lifetime!",
+      "emails": [
+        "toledoxa@gmail.com"
+      ],
+      "website": "http://toledochialpha.weebly.com",
+      "mission": "Our mission is to reconcile students to Christ, equipping them through spirit-filled communities of prayer, worship, fellowship, discipleship, and mission to transform the university, the marketplace and the world.",
+      "link": "https://www.facebook.com/toledochialpha/"
+    },
+ {
+      "id": "118870369077",
+      "name": "Saint Xavier University Chi Alpha",
+      "cover": {
+        "cover_id": "10152425818069078",
+        "offset_x": 8,
+        "offset_y": 0,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-xpf1/t31.0-8/s720x720/10001054_10152425818069078_4776553477415655234_o.jpg",
+        "id": "10152425818069078"
+      },
+      "emails": [
+        "sxuchialpha@gmail.com"
+      ],
+      "location": {
+        "city": "Chicago",
+        "country": "United States",
+        "latitude": 41.705685,
+        "longitude": -87.716663,
+        "state": "IL",
+        "street": "3700 W 103rd St",
+        "zip": "60655"
+      },
+      "mission": "We reconcile students to Christ, equipping them through communities of prayer, worship, fellowship, discipleship and mission to transform the university, the marketplace and the world.",
+      "link": "https://www.facebook.com/sxuchialpha/"
+    },
+{
+      "id": "172652902934446",
+      "name": "Chi Alpha University of Valley Forge",
+      "cover": {
+        "cover_id": "367673543432380",
+        "offset_x": 0,
+        "offset_y": 0,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/s720x720/11036531_367673543432380_100121081563371806_n.jpg?oh=df105c0356aeb1b91ef93c88c15af0a2&oe=573E8A4F",
+        "id": "367673543432380"
+      },
+      "description": "Our movement of campus ministries finds its identity in this passage.We believe that God longs to have each and every person be reconciled to Himself, and that the way that re-connection happens is through the representation of his people.Each of us who takes on the identity of “Christian” becomes Christ’s ambassador – or christou apostoloi in Greek, which we shorten to the first letters “Chi” and “Alpha” or XA.Our name is our constant reminder that each of us has a real part to play in this world.We each can carry Him within us to bring Him closer to the people around us.",
+      "emails": [
+        "dontay.gibson@mail.vfcc.edu"
+      ],
+      "website": "http://www.chialpha.com/",
+      "location": {
+        "city": "Phoenixville",
+        "country": "United States",
+        "latitude": 40.1194664,
+        "longitude": -75.5417682,
+        "state": "PA",
+        "street": "1401 Charlestown Rd",
+        "zip": "19460"
+      },
+      "mission": "Chi Alphas mission motto is \"Every student goes, every student gives, every student prays.\" To this end, the organization is committed to a fivefold philosophy: being a community of worship, prayer, fellowship, discipleship, and mission.",
+      "link": "https://www.facebook.com/ChiAlphaValleyForgeChristianCollege/"
+    },
+{
+      "id": "425893817565690",
+      "name": "Chi Alpha Christian Fellowship at Montclair State University",
+      "cover": {
+        "cover_id": "544690575686013",
+        "offset_x": 0,
+        "offset_y": 46,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-xtp1/t31.0-8/s720x720/12191317_544690575686013_7519874461935135311_o.jpg",
+        "id": "544690575686013"
+      },
+      "website": "http://twitter.com/montclairxa",
+      "link": "https://www.facebook.com/montclairxa/"
+    },
+    {
+      "id": "1539338013009377",
+      "name": "Alpha Chi Rho - AXP - Montclair State University",
+      "cover": {
+        "cover_id": "1623163761293468",
+        "offset_x": 0,
+        "offset_y": 33,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-xfa1/t31.0-8/s720x720/11741075_1623163761293468_5588620970368400423_o.png",
+        "id": "1623163761293468"
+      },
+      "description": "Excellence. This is what defines the men of Alpha Chi Rho at Montclair State University. Following our colonization in Spring 2015, we continue to make strides to unify the campus and local communities by continuing the enriching legacy that is GREEK LIFE! ",
+      "emails": [
+        "axp.msu@gmail.com"
+      ],
+      "website": "https://orgsync.com/110124/chapter http://www.alphachirho.org/",
+      "mission": "We base our ideals and beliefs on the foundation of our four landmarks given to us by our Revered Founding Fathers. They are as followed: 
+ 
+Membership from among those who are prepared to realize in word and deed, the Brotherhood of all men.
+The insistence on a high and clean moral standard.
+The paramount duty of Brotherly love among members.
+Judgment not by externals, but by intrinsic worth: no one is denied membership into Alpha Chi Rho because of race, creed, or nationality.",
+      "link": "https://www.facebook.com/axpmsu/"
+    },
+{
+      "id": "121969651206562",
+      "name": "Chi Alpha Campus Ministry - Minnesota State University Mankato",
+      "cover": {
+        "cover_id": "911826215554231",
+        "offset_x": 0,
+        "offset_y": 0,
+        "source": "https://scontent.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/s720x720/12119122_911826215554231_3540612560443438465_n.jpg?oh=dc6aa60f0f60a5661014ed62b91efca9&oe=57384352",
+        "id": "911826215554231"
+      },
+      "description": "Our weekly large group meeting is Thursday nights @ 8pm, in CSU 253. We don't always meet in CSU 253, so please pay attention to details in the weekly \"Chi Alpha Reminder\" email.  If a large group setting doesn't quite fit your style, we also have a guys and girls small groups that meet during the week. Contact us for more information!
+",
+      "phone": "507 3822840",
+      "emails": [
+        "mnsuxa@gmail.com"
+      ],
+      "website": "chialphamankato.org",
+      "mission": "We reconcile students to Christ, equipping them through Spirit-filled communities of prayer, worship, fellowship, discipleship and mission to transform the university, the marketplace and the world. 
+
+",
+      "link": "https://www.facebook.com/chialphamankato/"
+    }
+   
